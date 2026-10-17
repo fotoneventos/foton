@@ -1,4 +1,0 @@
-# Netlify publica solo la carpeta web/ (la landing y la app del invitado).
-# La carpeta supabase/ queda en el repo pero no se publica.
-[build]
-  publish = "web"
