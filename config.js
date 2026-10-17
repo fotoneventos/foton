@@ -9,7 +9,7 @@ export const CONFIG = {
 
   // URL pública del bucket de Cloudflare R2, sin barra al final.
   // Ejemplo: 'https://pub-0123456789abcdef.r2.dev'. Se completa al configurar R2.
-  mediaUrl: '',
+  mediaUrl: 'https://pub-3e27a96ff3604e15a9d9d1a948261104.r2.dev',
 
   maxSegundosVideo: 20,
   maxMbVideo: 100,
